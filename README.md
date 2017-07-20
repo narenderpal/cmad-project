@@ -24,8 +24,10 @@ https://github.com/narenderpal/question-service
 https://github.com/narenderpal/api-gateway
 
 ### Technology Stack
+![Tech stack](/docs/screenshots/tech_stack.png)
 
 ### Architecture Diagram
+![Arch diag](/docs/screenshots/arch_diag.png)
 
 ### API Details
 
