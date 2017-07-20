@@ -30,6 +30,7 @@ https://github.com/narenderpal/api-gateway
 ![Arch diag](/docs/screenshots/arch_diag.png)
 
 ### API Details
+https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
 
 
  
