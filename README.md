@@ -29,7 +29,7 @@ https://github.com/narenderpal/api-gateway
 ### Architecture Diagram
 ![Arch diag](/docs/screenshots/arch_diag.png)
 
-### API Details
+### REST API Details
 https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
 
 
