@@ -20,6 +20,12 @@ http://35.184.123.212/#/
 ### Architecture Diagram
 ![Arch diag](/docs/screenshots/arch_diag.png)
 
+### Google Cloud VM Instances View
+![gcvminstances diag](/docs/screenshots/gc_vm_instances.png)
+
+### REST API Details
+https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
+
 ### UI Service -
 https://github.com/narenderpal/cmad-ui-app
 
@@ -31,9 +37,6 @@ https://github.com/narenderpal/question-service
 
 ### API Gateway Microservice - 
 https://github.com/narenderpal/api-gateway
-
-### REST API Details
-https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
 
 
  
