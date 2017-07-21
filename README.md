@@ -35,5 +35,8 @@ https://github.com/narenderpal/api-gateway
 ### REST API Details
 https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
 
+### Google Cloud VM Instances View
+![gcvminstances diag](/docs/screenshots/gc_vm_instances.png)
+
 
  
