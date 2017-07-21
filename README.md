@@ -11,7 +11,10 @@ The minimally viable feature set include:
 5. Submit answers to questions
 6. Ability to search for questions
 
-### UI built on React, Redux - 
+### Application UI (SPA) built on React, Redux - 
+http://35.184.123.212/#/
+
+### UI Service -
 https://github.com/narenderpal/cmad-ui-app
 
 ### User Microservice - 
