@@ -21,7 +21,10 @@ http://35.184.123.212/#/
 ![Arch diag](/docs/screenshots/arch_diag.png)
 
 ### Google Cloud VM Instances View
-![gcvminstances diag](/docs/screenshots/gc_vm_instances.png)
+![gc_vm_instances diag](/docs/screenshots/gc_vm_instances.png)
+
+### Google Cloud Build Triggers
+![gc_build_triggers diag](/docs/screenshots/gc_build_triggers.png)
 
 ### REST API Details
 https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
