@@ -14,6 +14,12 @@ The minimally viable feature set include:
 ### Application UI (SPA) built on React, Redux - 
 http://35.184.123.212/#/
 
+### Technology Stack
+![Tech stack](/docs/screenshots/tech_stack.png)
+
+### Architecture Diagram
+![Arch diag](/docs/screenshots/arch_diag.png)
+
 ### UI Service -
 https://github.com/narenderpal/cmad-ui-app
 
@@ -25,12 +31,6 @@ https://github.com/narenderpal/question-service
 
 ### API Gateway Microservice - 
 https://github.com/narenderpal/api-gateway
-
-### Technology Stack
-![Tech stack](/docs/screenshots/tech_stack.png)
-
-### Architecture Diagram
-![Arch diag](/docs/screenshots/arch_diag.png)
 
 ### REST API Details
 https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
