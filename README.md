@@ -27,19 +27,24 @@ http://35.184.123.212/#/
 ![gc_build_triggers diag](/docs/screenshots/gc_build_triggers.png)
 
 ### REST API Details
-https://app.swaggerhub.com/apis/narenderpal/stack-overflow_api/1.2.0
+https://app.swaggerhub.com/apis/narenderpal/cmad-app/1.2.0
 
 ### UI Service -
 https://github.com/narenderpal/cmad-ui-app
+UI-Service is the single page user interface application and the frontend door. Built on ReactJS , Redux, CSS, HTML, jQuery and using tools like Babel, Webpack.
 
 ### User Microservice - 
 https://github.com/narenderpal/user-service
+User-Service provides the user registration, authentication and authorisation. Implemented using Vert.x Java. Uses MongoDB as persistence store. JWT Auth for generating access token for user authentication. 
 
 ### Question Microservice - 
 https://github.com/narenderpal/question-service
+Question-service provides the functionality to view/post  questions/answers/comments. Implemented using Vert.x java. Used MongoDB as persistence store. 
 
 ### API Gateway Microservice - 
 https://github.com/narenderpal/api-gateway
+UI-Service is the single page user interface application (SPA) built on ReactJS , Redux, CSS, HTML, jQuery.
+
 
 
  
