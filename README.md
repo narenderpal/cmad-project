@@ -26,6 +26,12 @@ http://35.184.123.212/#/
 ### GC Build Triggers
 ![gc_build_triggers diag](/docs/screenshots/gc_build_triggers.png)
 
+### GC Clusters
+![gc_clusters diag](/docs/screenshots/gc_clusters.png)
+
+### GC Load Balancers
+![gc_loadbalancers diag](/docs/screenshots/gc_loadbalancers.png)
+
 ### REST API Details
 https://app.swaggerhub.com/apis/narenderpal/cmad-app/1.2.0
 
