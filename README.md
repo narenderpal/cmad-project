@@ -20,10 +20,10 @@ http://35.184.123.212/#/
 ### Architecture Diagram
 ![Arch diag](/docs/screenshots/arch_diag.png)
 
-### Google Cloud VM Instances View
+### GC VM Instances View
 ![gc_vm_instances diag](/docs/screenshots/gc_vm_instances.png)
 
-### Google Cloud Build Triggers
+### GC Build Triggers
 ![gc_build_triggers diag](/docs/screenshots/gc_build_triggers.png)
 
 ### REST API Details
