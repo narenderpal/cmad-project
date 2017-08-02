@@ -45,7 +45,7 @@ Question-service provides the functionality to view/post  questions/answers/comm
 
 ### API Gateway Microservice 
 https://github.com/narenderpal/api-gateway
-UI-Service is the single page user interface application (SPA) built on ReactJS , Redux, CSS, HTML, jQuery.
+API-Gateway is responsible for handling each request and based on the get/put/post header route it to auth handler and then dispatch it to each service endpoint (user or question service). Implemented using Vert.x java. 
 
 ### UI Service 
 https://github.com/narenderpal/cmad-ui-app
