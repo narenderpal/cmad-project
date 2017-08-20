@@ -67,7 +67,7 @@ https://github.com/narenderpal/vertx-stackoverflow
 ### Build Pipeline
 ![Tech stack](/docs/screenshots/staging-build-pipeline.png)
 
-### Docker Hub repo
+### Docker Hub Repo
 ![Arch diag](/docs/screenshots/docker-hub-image.png)
 
 ### SonarQube Static Code Analysis
