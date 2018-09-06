@@ -1,4 +1,4 @@
-# CMAD Advanced Project
+# CMAD  Project
 
 ## A Question & Answers application (similar to StackOverflow) 
 
